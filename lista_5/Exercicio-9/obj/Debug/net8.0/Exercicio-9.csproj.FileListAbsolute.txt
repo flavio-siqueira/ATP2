@@ -1,0 +1,14 @@
+C:\Users\adm\Desktop\lista_5\Exercicio-9\bin\Debug\net8.0\Exercicio-9.exe
+C:\Users\adm\Desktop\lista_5\Exercicio-9\bin\Debug\net8.0\Exercicio-9.deps.json
+C:\Users\adm\Desktop\lista_5\Exercicio-9\bin\Debug\net8.0\Exercicio-9.runtimeconfig.json
+C:\Users\adm\Desktop\lista_5\Exercicio-9\bin\Debug\net8.0\Exercicio-9.dll
+C:\Users\adm\Desktop\lista_5\Exercicio-9\bin\Debug\net8.0\Exercicio-9.pdb
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.AssemblyInfo.cs
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.dll
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\refint\Exercicio-9.dll
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.pdb
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\Exercicio-9.genruntimeconfig.cache
+C:\Users\adm\Desktop\lista_5\Exercicio-9\obj\Debug\net8.0\ref\Exercicio-9.dll
